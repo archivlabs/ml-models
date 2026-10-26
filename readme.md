@@ -8,9 +8,11 @@ The repository is publicly accessible solely to enable these downloads. **It is 
 
 ## Layout
 
-    <model>/manifest.json    # Latest version, download URL, and SHA-256 checksum
+    <model>/manifest.json    # Latest version, file name, SHA-256 checksum, and signature
+    <model>/<file>.aar       # Model package (Apple Archive) named in manifest.json
 
-Model files are attached to GitHub Releases tagged `<model>-<version>` (e.g., `segmentation-v11-ep15`).
+Apps read `manifest.json` from `raw.githubusercontent.com` and download the file next to it.
+Each release is signed; apps install only packages whose signature and checksum match.
 
 ## License
 

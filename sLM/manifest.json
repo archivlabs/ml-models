@@ -1,0 +1,14 @@
+{
+  "model": "kospacing",
+  "latest": {
+    "version": "v13_full ep20",
+    "file": "kospacing_v13_ep20.aar",
+    "size": 17626563,
+    "sha256": "ff819be7ed66daf83eb40c7ddb2762eb56bec638d825a87bd8fdfb4e2ecff4f0",
+    "format": 1,
+    "signature": "mUJMFRSf+p4ZK7FCtllce9U1ojrWz11vMgrheLJbgwcFtOuoe11SPfRSyWZ+wjr6EVdHfQ9CvNHm9At1gul0Aw==",
+    "precision": "fp32",
+    "golden": "27/28"
+  },
+  "history": []
+}
