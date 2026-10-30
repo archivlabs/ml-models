@@ -1,0 +1,25 @@
+{
+  "model": "kospacing",
+  "latest": {
+    "version": "v14_full ep20",
+    "file": "kospacing_v14_ep20_android.zip",
+    "size": 17440034,
+    "sha256": "43748dd736ddf2a1c3960480ce6c5f87722eba00d6489e73c99ec5c5544489ef",
+    "format": 1,
+    "signature": "9Wh5rMlC0B8/bKgYstM0188CMpbcSBV0AuvFYzFglfWRa+EI/fO0WoEX+GdWr0agGFvkcNrWbg/n952vJk0YBg==",
+    "precision": "fp32",
+    "golden": "27/28"
+  },
+  "history": [
+    {
+      "version": "v13_full ep20",
+      "file": "kospacing_v13_ep20_android.zip",
+      "size": 17439218,
+      "sha256": "709800948d199ff242f71a00fdc6f5551c8c83069c1ba6546286ac30670fd631",
+      "format": 1,
+      "signature": "FgQZQDSSIHMq7ddLBWsBZM2I22ppRaZfW32pBP+CxAZhT0p7fkam+6fEDJjkgQ4SHeY2EDiwwo8ykmhKfJDkCQ==",
+      "precision": "fp32",
+      "golden": "27/28"
+    }
+  ]
+}
