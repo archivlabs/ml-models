@@ -1,16 +1,26 @@
 {
   "model": "kospacing",
   "latest": {
-    "version": "v15_full ep17",
-    "file": "kospacing_v15_ep17_android.zip",
-    "size": 17440296,
-    "sha256": "b25e0e0b75dd35e8d4125ae91cad3a37621c47a7bd46ff0ea5e82350d2605ec3",
+    "version": "v17_full ep20",
+    "file": "kospacing_v17_ep20_android.zip",
+    "size": 17442050,
+    "sha256": "66b1c677167c16682e7bc47c66860cde1c6cec10ab806a784cbee8bf7bd45cf9",
     "format": 1,
-    "signature": "cXbY37+6xtZKbDcDn36MZdVWSUhGSeCcWG+SgkAkRVI9HsPk92O1O5cyQOmDa87ZJUNNUF5rUWb5Ox7b5tI9Aw==",
+    "signature": "ncACSk+ow0Dv2wg+JMxd2t615j4mTt1iJ9SGnNj9GAfqdWsqN9uODDtP+gaJTi0u8Zo0NJDK/IO/AodgtO49Dw==",
     "precision": "fp32",
-    "golden": "27/28"
+    "golden": "28/28"
   },
   "history": [
+    {
+      "version": "v15_full ep17",
+      "file": "kospacing_v15_ep17_android.zip",
+      "size": 17440296,
+      "sha256": "b25e0e0b75dd35e8d4125ae91cad3a37621c47a7bd46ff0ea5e82350d2605ec3",
+      "format": 1,
+      "signature": "cXbY37+6xtZKbDcDn36MZdVWSUhGSeCcWG+SgkAkRVI9HsPk92O1O5cyQOmDa87ZJUNNUF5rUWb5Ox7b5tI9Aw==",
+      "precision": "fp32",
+      "golden": "27/28"
+    },
     {
       "version": "v14_full ep20",
       "file": "kospacing_v14_ep20_android.zip",
