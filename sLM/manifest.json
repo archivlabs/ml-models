@@ -1,16 +1,38 @@
 {
   "model": "kospacing",
   "latest": {
-    "version": "v17_full ep20",
-    "file": "kospacing_v17_ep20.aar",
-    "size": 17626246,
-    "sha256": "18c75705df7200aebfde2697d8de85e1cb40af5933a7f53d0b758fcd3e96740c",
+    "version": "v18_full ep20",
+    "file": "kospacing_v18_ep20.aar",
+    "size": 18154327,
+    "sha256": "3cc4c785ac1725934bcec2f84398ca65ca6e73c2299a74b8c264a73640a98304",
     "format": 1,
-    "signature": "b8V75/2IbY6y/ObxOPLrEeCcYn1fNUClXeoTUlQdWey7sGZ+yieEM3cVD1PG840q+ynrU6IWmF+KjnwnVW/GDQ==",
+    "signature": "khjfj79aJWOMuvYAQpb8e4FDVOWyrssLtGijEaVDJ7Nyq4AwHs4hSoDPUg7Pc9WNYyz74ACRNGslnfFUXdoMBw==",
     "precision": "fp32",
-    "golden": "28/28"
+    "golden": "27/28"
   },
+  "releases": [
+    {
+      "version": "v18_full ep20",
+      "file": "kospacing_v18_ep20.aar",
+      "size": 18154327,
+      "sha256": "3cc4c785ac1725934bcec2f84398ca65ca6e73c2299a74b8c264a73640a98304",
+      "format": 1,
+      "signature": "khjfj79aJWOMuvYAQpb8e4FDVOWyrssLtGijEaVDJ7Nyq4AwHs4hSoDPUg7Pc9WNYyz74ACRNGslnfFUXdoMBw==",
+      "precision": "fp32",
+      "golden": "27/28"
+    }
+  ],
   "history": [
+    {
+      "version": "v17_full ep20",
+      "file": "kospacing_v17_ep20.aar",
+      "size": 17626246,
+      "sha256": "18c75705df7200aebfde2697d8de85e1cb40af5933a7f53d0b758fcd3e96740c",
+      "format": 1,
+      "signature": "b8V75/2IbY6y/ObxOPLrEeCcYn1fNUClXeoTUlQdWey7sGZ+yieEM3cVD1PG840q+ynrU6IWmF+KjnwnVW/GDQ==",
+      "precision": "fp32",
+      "golden": "28/28"
+    },
     {
       "version": "v15_full ep17",
       "file": "kospacing_v15_ep17.aar",
